@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olugbega
+- 👋 Hi, I’m @Olugbenga
 - 👀 I’m interested in Cloud Computing/Cloud Engineering 
 - 🌱 I’m currently learning Python, SQL 
 - 💞️ I’m looking to collaborate on AWS Projects 
